@@ -37,6 +37,8 @@ body {
 }
 
 .testimonials .container {
+  max-width: 1440px;
+  margin: 0 auto;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 1fr 1fr;
@@ -103,7 +105,7 @@ blockquote::after {
 .testimonial-gray {
   background-color: var(--dark-gray-blue); 
 }
-.tstimonial-light {
+.testimonial-light {
   background-color: #ffffff;
 }
 .testimonial-dark {
@@ -185,7 +187,7 @@ footer {
 
 
 /* Media Queries */
-@media only screen and (max-width: 979px) {
+@media only screen and (max-width: 1120px) {
   .testimonial-1 {
     grid-column: 1 / span all;
     grid-row: 1 / 2;
