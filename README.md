@@ -40,7 +40,7 @@ Users should be able to:
 
 ### What I learned
 
-CSS Grid is a great tool to quickly create complex layouts,and also makes it easier to modify your page element with medie queries to adapt your layout for differnt screen sizes.
+CSS Grid is a great tool to quickly create complex layouts, and it also makes it easier to adjust your page elements with medie queries to adapt your layout for different screen sizes.
 
 
 ## Author
