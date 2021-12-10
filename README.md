@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-y5pgG1Jhk)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/testimonials-grid-section-using-css-grid-v1UR4Mthy)
 - Live Site URL: [Live site URL here](https://mystifying-austin-3e49a9.netlify.app/)
 
 ## My process
